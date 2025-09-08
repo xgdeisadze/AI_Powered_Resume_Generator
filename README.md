@@ -1,5 +1,4 @@
 # Xenia Deisadze - Project 1 Sprint 4
-I based Sprint 4 on your previous solutions since I had missed Sprint 2 and Sprint 3.
 
 * **How to Run the Program:**
 To run the GUI application, run the main.py file. Scroll through the list, find a job you like, click on it, and press the "Select Job" button. The job you selected will be saved to the database. 
